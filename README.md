@@ -2,7 +2,8 @@
 免费图片托管解决方案，Flickr/imgur替代品。使用Cloudflare Pages和Telegraph。  
 
 基于
-[Airmole大佬](https://github.com/cf-pages/Telegraph-Image)的项目，并由[kobe koto](https://github.com/kobe-koto)使用astro重写了前端部分，开源在[ArmoLab/Telegraph-ImageHosting](https://github.com/cf-pages/Telegraph-Image)
+[Airmole大佬](https://github.com/cf-pages/Telegraph-Image)的项目，并由[kobe koto](https://github.com/kobe-koto)使用astro重写了前端部分，开源在[ArmoLab/Telegraph-ImageHosting](https://github.com/cf-pages/Telegraph-Image)  
+# 下面是原版的部署教程
 
 ## 如何部署
 
