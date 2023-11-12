@@ -1,7 +1,8 @@
 # Telegraph-Image
-免费图片托管解决方案，Flickr/imgur替代品。使用Cloudflare Pages和Telegraph。
+免费图片托管解决方案，Flickr/imgur替代品。使用Cloudflare Pages和Telegraph。  
 
-[English](README-EN.md)|中文
+基于
+[Airmole大佬](https://github.com/cf-pages/Telegraph-Image)的项目，并由[kobe koto](https://github.com/kobe-koto)使用astro重写了前端部分，开源在[ArmoLab/Telegraph-ImageHosting](https://github.com/cf-pages/Telegraph-Image)
 
 ## 如何部署
 
